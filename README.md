@@ -1,6 +1,6 @@
 #sync-read-lines
 
-    npm install read-lines
+    npm install sync-read-lines
 
 ##Usage
 
