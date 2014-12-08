@@ -1,0 +1,22 @@
+{
+  "name": "sync-read-lines",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jasya/sync-read-lines.git"
+  },
+  "keywords": [
+    "lines"
+  ],
+  "author": "jasya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasya/sync-read-lines/issues"
+  },
+  "homepage": "https://github.com/jasya/sync-read-lines"
+}
